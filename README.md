@@ -1,12 +1,11 @@
 # From Pipelines to Plots: Reproducible and Visual Data Analysis
 
-![Workshop Banner](images/workshop_banner.png)
 
 Welcome to the GitHub repository for the **Australian and New Zealand Society for Immunology (ASI)** workshop:
 
 > **From Pipelines to Plots: Reproducible and Visual Data Analysis**
 
-This repository contains the slides, workshop code, datasets and supporting material used throughout the workshop.
+This repository contains the slides, workshop code, datasets and supporting material used throughout the workshops delivered on the 9th and 10th of July 2026 by Dr Jennifer Currenti, Dr Aaron Beasley, and Dr Nicola Principe.
 
 ---
 
@@ -16,13 +15,15 @@ Modern biological research increasingly relies on computational analyses that ar
 
 The workshop is designed for researchers who already have some basic experience with R and would like to develop more efficient, reproducible and automated analysis workflows.
 
-It is run by Dr Jennifer Currenti, Dr Aaron Beasley, and Dr Nicola Principe.
-
 ---
 
 # Workshop Structure
 
 ## Day 1 – Data Reproducibility and Automation
+
+Run by:
+- Dr Jennifer Currenti
+- Dr Aaron Beazley
 
 Topics include:
 
@@ -36,6 +37,11 @@ Topics include:
 ---
 
 ## Day 2 – Data Fundamentals and Visualisation
+
+Run by:
+- Dr Jennifer Currenti
+- Dr Aaron Beasley
+- Dr Nicola Principe
 
 Topics include:
 
@@ -60,7 +66,6 @@ Topics include:
 ├── code/                   # R scripts used during the workshop
 ├── data/                   # Input datasets
 ├── results/                # Output generated during the workshop
-├── images/                 # Figures used in slides and documentation
 ├── environments/           # Conda environment files
 ├── README.md
 └── LICENSE
@@ -73,9 +78,8 @@ Topics include:
 The repository includes:
 
 - Complete workshop slides
-- Student workshop scripts
-- Fully annotated instructor solutions
-- Example datasets
+- Workshop scripts
+- Fully annotated instructor solutions/html files
 - Figures generated throughout the workshop
 - Conda environment files (where applicable)
 
@@ -136,16 +140,16 @@ By the end of the workshop you should be able to:
 Clone the repository:
 
 ```bash
-git clone https://github.com/<organisation>/<repository>.git
+git clone https://github.com/JenC9292/ASI-WA-branch-workshop-2026
 ```
 
 Move into the repository:
 
 ```bash
-cd <repository>
+cd ASI_Workshop
 ```
 
-Open the RStudio Project (if provided) or open the scripts located in the `code/` directory.
+Open the RStudio Project or open the scripts located in the `code/` directory.
 
 ---
 
@@ -182,16 +186,10 @@ If you use these workshop materials in your teaching or training, please cite or
 
 # Contact
 
-Australian and New Zealand Society for Immunology (ASI)
-
-Website:
-https://www.immunology.org.au
-
 Email:
 asiwa@immunology.org.au
+jennifer.currenti@curtin.edu.au
 
 ---
-
-© Australian and New Zealand Society for Immunology (ASI)
 
 These materials were developed for the **From Pipelines to Plots: Reproducible and Visual Data Analysis** workshop.
