@@ -259,6 +259,7 @@ dependencies:
   - r-gghalves=0.1.4=r45hc72bb7e_3
   - r-ggplot2=4.0.3=r45h785f33e_0
   - r-ggridges=0.5.7=r45hc72bb7e_1
+  - r-ggside=0.4.1=r45hc72bb7e_0
   - r-gistr=0.9.0=r45hc72bb7e_4
   - r-glmnet=5.0=r45h87f5d4e_0
   - r-globaloptions=0.1.4=r45ha770c72_0
