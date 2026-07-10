@@ -5,7 +5,7 @@ Welcome to the GitHub repository for the **Australian and New Zealand Society fo
 
 > **From Pipelines to Plots: Reproducible and Visual Data Analysis**
 
-This repository contains the slides, workshop code, datasets and supporting material used throughout the workshops delivered on the 9th and 10th of July 2026 by Dr Jennifer Currenti, Dr Aaron Beasley, and Dr Nicola Principe.
+This repository contains the slides, workshop code, datasets and supporting material used throughout the workshops delivered on the 9th and 10th of July 2026 by Dr Jennifer Currenti, Dr Aaron Beasley, and Dr Nicola Principe with assistance from Dr Nataliya Slater.
 
 ---
 
